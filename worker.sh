@@ -1,0 +1,1 @@
+    docker swarm join --token ## AQUI GERA O TOKEN APÓS ROTINAS
